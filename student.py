@@ -1,7 +1,7 @@
 # Leia uma linha com o número do cartão
 numero = input()
 impares = []
-for i in numeros numeros[-1::-2]:
+for i in numeros[-1::-2]:
   impares.append(int(1))
 pares = []
 for i in numeros[-2::-2]:
